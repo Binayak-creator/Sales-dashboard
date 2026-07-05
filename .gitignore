@@ -1,0 +1,12 @@
+# Power BI cache
+*.pbix.autosave
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp
